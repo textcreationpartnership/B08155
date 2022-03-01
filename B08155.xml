@@ -1,0 +1,540 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A funerall elegie, in memory of the rare, famous, and admired poet, Mr. Beniamin Ionson deceased. VVho dyed the sixteenth day of August last, 1637, and lyeth inter'd in the Cathedral Church of Saint Peter at Westminster..</title>
+            <author>Taylor, John, 1580-1653.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1637</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08155</idno>
+            <idno type="STC">STC 23759</idno>
+            <idno type="STC">ESTC S95482</idno>
+            <idno type="EEBO-CITATION">71305195</idno>
+            <idno type="OCLC">ocm 71305195</idno>
+            <idno type="VID">183918</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08155)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183918)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2210:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A funerall elegie, in memory of the rare, famous, and admired poet, Mr. Beniamin Ionson deceased. VVho dyed the sixteenth day of August last, 1637, and lyeth inter'd in the Cathedral Church of Saint Peter at Westminster..</title>
+                  <author>Taylor, John, 1580-1653.</author>
+               </titleStmt>
+               <extent>[19] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E.P. for Henry Gosson, and are to be sold at his Shop on London-bridge.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1637..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title vignette, initial.</note>
+                  <note>Signed at end: Iohn Taylor.</note>
+                  <note>Signatures: A-C⁴ (first and last leaves blank?).</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jonson, Ben, 1573?-1637 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:183918:1"/>
+            <pb facs="tcp:183918:1"/>
+            <pb facs="tcp:183918:2"/>
+            <pb facs="tcp:183918:2"/>
+            <pb facs="tcp:183918:3" rendition="simple:additions"/>
+            <pb facs="tcp:183918:3" rendition="simple:additions"/>
+            <p>A FUNERALL ELEGIE, In Memory of the Rare, Famous, and Admired Poet, M<hi rend="sup">r</hi>. BENIAMIN IONSON deceaſed.</p>
+            <p>VVho dyed the ſixteenth day of <hi>Auguſt</hi> laſt, 1637, and lyeth inter'd in the Cathedrall Church of Saint <hi>Peter</hi> at Weſtminſter.</p>
+            <figure>
+               <q xml:lang="lat">SPES ADDIT ALAS.</q>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>London Printed by E. P. for <hi>Henry Goſſon,</hi> and are to be ſold at his Shop on London-Bridge. 1637.</p>
+         </div>
+         <div type="poem" subtype="to_the__reader">
+            <pb facs="tcp:183918:4"/>
+            <pb facs="tcp:183918:4"/>
+            <head>TO THE RIGHT HONOVRABLE, VVORSHIPFVLL AND Others, that are underſtanding Readers and Impartiall Cenſurers.</head>
+            <l>RIght Honour'd, Worſhipfull and knowing men,</l>
+            <l>I doe not here confine my Dedication,</l>
+            <l>To any one man, but my toyling pen</l>
+            <l>Writes to great <hi>Brittaine,</hi> and the <hi>Iriſh</hi> Nation,</l>
+            <l>Know that the ſubject of My verſe is <hi>Ben,</hi>
+            </l>
+            <l>And what he was, his workes doe make relation.</l>
+            <l>Alive his lines abroad by <hi>Fame</hi> were ſpread,</l>
+            <l>
+               <hi>For which he is belov'd now he is dead.</hi>
+            </l>
+            <l>Dead, no, he lives, he will, and ſhall ſurvive,</l>
+            <l>For <hi>Death</hi> hath taken but his <hi>ſhell</hi> or <hi>Rhyn'de,</hi>
+            </l>
+            <l>His better parts are ſtill with us alive,</l>
+            <l>
+               <hi>His Pith</hi> or <hi>Kernell</hi> he hath left behinde,</l>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:183918:5"/>
+            <head>The Epiſtle Dedicatory.</head>
+            <l>As <hi>Ovid</hi> ſaith, <hi>Sword, fire,</hi> cannot deprive,</l>
+            <l>
+               <hi>Age, Death</hi> or <hi>Time,</hi> can put him out of mind,</l>
+            <l>He was belov'd, and for his love I crave,</l>
+            <l>
+               <hi>His Elegie</hi> may your acceptance have</l>
+            <l>You that are men of worth, I ſpeake to you,</l>
+            <l>Not to the partial and prejudicate:</l>
+            <l>Nor to the ribble rabble ſenceleſſe crue,</l>
+            <l>The <hi>Hydra</hi> monſter inconſiderate,</l>
+            <l>Who ſcarce know P from G, or blacke from blew,</l>
+            <l>I neither doe reſpect, their love or hate,</l>
+            <l>For him deceas'd, and for your loves I pend it,</l>
+            <l>And to your good protections I commend it.</l>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:183918:5"/>
+            <head>To my Friend JOHN TAYLOR, the Author of this following <hi>Elegie.</hi>
+            </head>
+            <l>
+               <hi>IOhn,</hi> though (in verſe) I doe but ſeldome write,</l>
+            <l>Yet love provokes me that I muſt requite</l>
+            <l>Thy honeſt gratitude thou haſt expreſt,</l>
+            <l>Although in <hi>Ben</hi> I had no intereſt;</l>
+            <l>
+               <hi>He</hi> was to me, nor I of him ſcarce knowne,</l>
+            <l>Yet for the love (kind Friend) thou here haſt ſhowne,</l>
+            <l>This Paradox of IONSON may be read,</l>
+            <l>Hee is not living, nor he is not dead.</l>
+            <closer>
+               <signed>EDVVARD BRIAN.</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <l>O living dead man if man may be ſo,</l>
+            <l>Death could but take thy body, thy workes ſhow,</l>
+            <l>What ſlender wounds the Fates to vertue give,</l>
+            <l>When they conſpire her death, alas ſhee'l live</l>
+            <l>Beyond the reach of Fate, <hi>Ben Ionſon's</hi> dead,</l>
+            <l>Yet lives with him, by whom his workes are read;</l>
+            <l>How many would deſire thy Fate to have,</l>
+            <l>If they might live as thou doſt in the grave,</l>
+            <l>I that durſt never Poetize before,</l>
+            <l>Dare write theſe of thee though I write no more.</l>
+            <closer>
+               <signed>WILLIAM YEO.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="elegy">
+            <pb facs="tcp:183918:6"/>
+            <pb facs="tcp:183918:6"/>
+            <head>A Funerall Elegie.</head>
+            <l>
+               <hi>
+                  <seg rend="decorInit">B</seg>En</hi> is deceas'd, and (by his loſſe) I feare</l>
+            <l>A dearth wil follow, good wit wil be dear,</l>
+            <l>What, is the Muſes treaſurie exhauſted?</l>
+            <l>Is <hi>Tempe's well,</hi> or <hi>Aganippe</hi> waſted,</l>
+            <l>Or hath the <hi>Theſpian ſprings</hi> no liquor left,</l>
+            <l>Is <hi>Helicon</hi> of moiſture quite bereft?</l>
+            <l>Hath <hi>Phoebus</hi> (this hot Summer) drawn all dry,</l>
+            <l>Is it ſo low an ebbe in poetry?</l>
+            <l>That all the wit that is profeſt by men,</l>
+            <l>(Vnfit to beare the Inkhorne after <hi>Ben</hi>)</l>
+            <l>Are Barren now, now are their muſes dumb,</l>
+            <l>Or what ſtupidity doth them benumb,</l>
+            <l>That no one hath the wit, the Art, the Skill,</l>
+            <l>The opportunity, or the good will</l>
+            <l>To write his Elegie, who once was ſuch,</l>
+            <l>That of his worth they cannot write too much?</l>
+            <l>But ſure ther's many wits of high account,</l>
+            <l>That able are, but have no mind to mount</l>
+            <l>So high a pitch as his high worth requires,</l>
+            <l>Whoſe lofty ſtraines were of immortall fires.</l>
+            <l>Their good wits may (ill) under-doe his fame,</l>
+            <l>Their beſt wits cannot over-do the ſame.</l>
+            <pb facs="tcp:183918:7"/>
+            <l> Then ſince the Muſes, and <hi>Theſſalian</hi> mountaines</l>
+            <l>Are barren, and the poore <hi>Pegaſean</hi> fountaines</l>
+            <l>Are drye, yet noble <hi>Thames</hi> ſo farre excels</l>
+            <l>Thoſe <hi>Mounts,</hi> and <hi>Founts,</hi> and rare ſuppoſed <hi>Wels,</hi>
+            </l>
+            <l>That I her Poet, am emboldned here,</l>
+            <l>To be <hi>Ben Ionſons</hi> artleſſe <hi>Chauntecleere.</hi>
+            </l>
+            <l>But as the pureſt gold unto the eye,</l>
+            <l>Shines brighteſt, when courſe metall ſtandeth nigh,</l>
+            <l>So he (by me that am his foyle or ſhade)</l>
+            <l>Is more illuſtrated and brighter made.</l>
+            <l>
+               <hi>Miner vae's</hi> ſtatue did moſt faire appeare,</l>
+            <l>When fowle <hi>Meduſaes</hi> Image, did ſtand neere.</l>
+            <l>He was our <hi>Homer, Maro,</hi> and our <hi>Naſo,</hi>
+            </l>
+            <l>Our <hi>Perſius, Lucan, Petrarch,</hi> and our <hi>Taſſo,</hi>
+            </l>
+            <l>He was to us for ſtate or recreation,</l>
+            <l>As thoſe, or any <hi>Poet</hi> to his nation.</l>
+            <l>His playes were labours, of <hi>Herculean</hi> perill,</l>
+            <l>Which every wit applauded (but the Sterill)</l>
+            <l>His workes were playes to pleaſe a learned eare,</l>
+            <l>And intricate to underſtand and Beare:</l>
+            <l>His Maſques expreſt his Iudgement was not weake,</l>
+            <l>In making Hils, rocks, ſtones and rivers ſpeake,</l>
+            <pb facs="tcp:183918:7"/>
+            <l> And like old <hi>Orpheus,</hi> riſen from his trance,</l>
+            <l>He oftentimes made Trees and Beaſts to dance.</l>
+            <l>His workes were Art, his art was Sence and braine,</l>
+            <l>His braine was his revenue, and his gaine</l>
+            <l>Was as a Poets ſhould be, words and wind,</l>
+            <l>Some good, ſome bad, as Cenſure was inclin'd.</l>
+            <l>Many have read him, prais'd him and disprais'd him,</l>
+            <l>And (in their humours) caſt him downe or rais'd him,</l>
+            <l>When ſome that in their Iudgements were too hot,</l>
+            <l>Although they read him, underſtood him not,</l>
+            <l>And ſure twas more than he was bound to doe,</l>
+            <l>To find them wit and underſtanding too,</l>
+            <l>Yet was he not ſelfe-will'd, opinionate,</l>
+            <l>Nor did he wiſemens cenſures under-rate,</l>
+            <l>But alwayes with diſcretion would ſubmit</l>
+            <l>To better Iudgements, but when <hi>Monſieur</hi> Wit,</l>
+            <l>(Shallow in Braine, more ſhallow in conceit)</l>
+            <l>Arts <hi>Zany,</hi> and a <hi>Poets</hi> counterfeit,</l>
+            <l>When ſuch as thoſe did ſcrew their Iawes awry,</l>
+            <l>And mangle his inventions Scurvily,</l>
+            <l>His ſcorne and ſlight contempt, was all their ſhares,</l>
+            <l>Diſdaining ſtill to ſet his wit to theirs,</l>
+            <pb facs="tcp:183918:8"/>
+            <l> Eſteeming Sottiſh ignorance and pride</l>
+            <l>Not worth his anger, he would ſuch deride.</l>
+            <l>Indeed his writings were ſo farre exceeding,</l>
+            <l>That they were not for every common reading,</l>
+            <l>Yet he wrote <hi>Engliſh,</hi> but 'twas farre refind,</l>
+            <l>Beyond the apprehenſion of each Hinde,</l>
+            <l>He could not be (by ignorance) diſcern'd,</l>
+            <l>For whoſo read <hi>Ben Ionſon,</hi> muſt be learn'd:</l>
+            <l>His <hi>Cynthia's Revels,</hi> and his <hi>Poetaſter</hi>
+            </l>
+            <l>(Pieces of Art) declares him his Arts Maſter:</l>
+            <l>His <hi>Romane Catilines</hi> conſpiracie</l>
+            <l>Deſcribes much Learning Wit, and Induſtry.</l>
+            <l>
+               <hi>Romes</hi> great <hi>Sejanus</hi> ſhews the pompe and Port</l>
+            <l>Of <hi>Rome,</hi> the <hi>Senate,</hi> and <hi>Tiberius</hi> Court.</l>
+            <l>His <hi>Fox,</hi> his <hi>Alchymiſt,</hi> his <hi>Silent-Woman,</hi>
+            </l>
+            <l>Are things uncapeable to wit that's common:</l>
+            <l>His plaies of mens ſtrange <hi>humours out, and in,</hi>
+            </l>
+            <l>Approved good applaudity did win,</l>
+            <l>His <hi>Beggars buſh</hi> was written ſo acute,</l>
+            <l>It angred envy, and ſtrook <hi>Malice</hi> mute;</l>
+            <l>Theſe (in deſpight of miſchievous detraction)</l>
+            <l>Were his, and bravely were explain'd in action,</l>
+            <pb facs="tcp:183918:8"/>
+            <l> By ſuch experienc'd practis'd knowing men,</l>
+            <l>Whoſe parallels will never act agen.</l>
+            <l>(For action is the body of good wit,</l>
+            <l>And good invention is the Soule of it.</l>
+            <l>His play of <hi>Barthol.</hi> Faire gave much delight</l>
+            <l>To all, but ſuch as underſtood not right,</l>
+            <l>His Loadſtone or <hi>Magnetique Lady</hi> fail'd him,</l>
+            <l>For which detraction round about aſſayl'd him,</l>
+            <l>Forgetting all he had wrote well before,</l>
+            <l>Spreading abroad his errors much the more.</l>
+            <l>Had each one in his owne particular</l>
+            <l>Knowne themſelves men, and to be apt to erre;</l>
+            <l>They in their wits poſſeſſion, or reverſion,</l>
+            <l>Had never caſt on him a bad Aſperſion.</l>
+            <l>But ſuch mens muſes have the <hi>Laske,</hi> I think,</l>
+            <l>And muſt be caſting <hi>Gall,</hi> or ſquirting Inke,</l>
+            <l>Till <hi>Woodcocks</hi> have no <hi>Bills,</hi> nor <hi>Gudgeons gils,</hi>
+            </l>
+            <l>Theſe hot <hi>Pendragoniſts</hi> will dart their quils</l>
+            <l>As ſharpe as Briſtles, ſhot from <hi>Porcupines,</hi>
+            </l>
+            <l>They ſhoote their venemous invective lines.</l>
+            <l>Theſe lines are intricate perhaps to ſome.</l>
+            <l>But beſt of Iudgement know from whence they come.</l>
+            <pb facs="tcp:183918:9"/>
+            <l> His <hi>Epigrams</hi> were witty, quick and quaint,</l>
+            <l>Which <hi>Vice</hi> or <hi>Vertue</hi> did in Colours paint,</l>
+            <l>Wherein the bad were nip'd, the good were prais'd;</l>
+            <l>The Gull deſcrib'd, the foole and wiſe imblaz'd.</l>
+            <l>A lying rumour up and downe doth run,</l>
+            <l>Reporting that he was a <hi>Bricklayers</hi> Sonne,</l>
+            <l>Which if 'twere true were no diſgrace or ſoorne,</l>
+            <l>For famous <hi>Virgil</hi> in a ditch was borne,</l>
+            <l>And many men of meane obſcure degree,</l>
+            <l>Have riſen to the height of Soveraignty.</l>
+            <l>But leaving thoſe to proove report a lyer,</l>
+            <l>A reverend Preacher was <hi>Ben Ionſons</hi> Sire,</l>
+            <l>Who finding his innated inclination</l>
+            <l>To learned ſtudies, gave him education,</l>
+            <l>Being well initiated with his father,</l>
+            <l>That he the rules of grammar gan to gather,</l>
+            <l>He (in paternall love) moſt carefully,</l>
+            <l>Sent him up to the univerſity,</l>
+            <l>Where nature mixt with art ſo fluent wroght</l>
+            <l>That he learn'd faſter than his tutor taught,</l>
+            <l>And by his owne induſtrie he did gaine</l>
+            <l>More then his ſtudy ever could attaine,</l>
+            <pb facs="tcp:183918:9"/>
+            <l> For why, 'tis nature onely makes a Poet,</l>
+            <l>And hee's a natural that wil not know it.</l>
+            <l>His Father left this mortall pilgrimage,</l>
+            <l>And dy'd when <hi>Ben</hi> was 17 yeers of age,</l>
+            <l>And then twas noted, though his yeeres were greene,</l>
+            <l>His wit was grave, like one of twice ſeventeene.</l>
+            <l>His ingenuity was ſolid, Steady,</l>
+            <l>Not raſh, or flaſh, <hi>Dogmaticall</hi> or heady.</l>
+            <l>Thus in his <hi>Prime</hi> time, when his wit was prime,</l>
+            <l>His mother chanc'd to match the ſecond time,</l>
+            <l>She chang'd her copy with more haſte than ſpeed,</l>
+            <l>And married with a <hi>Bricklayer</hi> indeed.</l>
+            <l>Then did his Father in law, (as moſt men) deem</l>
+            <l>Of <hi>Learning</hi> in a beggerly eſteeme,</l>
+            <l>That Arts, and Sciences were poore and bare,</l>
+            <l>That <hi>Greeke</hi> and <hi>Latine</hi> were deſpiſed ware.</l>
+            <l>He therefore did command his Stepſon <hi>Ben,</hi>
+            </l>
+            <l>From learned ſtudies to come home agen,</l>
+            <l>Whom he would ſtraight inſtruct in ſuch a way,</l>
+            <l>To worke and live and thrive another day.</l>
+            <l>Then was he forc'd to leave the <hi>Academ,</hi>
+            </l>
+            <l>And lay by Learning (that unvalued Iem)</l>
+            <pb facs="tcp:183918:10"/>
+            <l> Beholde a <hi>Metamorphoſis</hi> moſt ſtrange,</l>
+            <l>His Books were turn'd to <hi>Bricks,</hi> a ſuddaine change,</l>
+            <l>The like was never ſeene ſince the creation,</l>
+            <l>
+               <hi>Papers</hi> transform'd to <hi>Stones,</hi> (a hard tranſlation)</l>
+            <l>He from his decent <hi>Scholars</hi> ſuit <hi>Nonſuited,</hi>
+            </l>
+            <l>His habit all with lime and ſand polluted,</l>
+            <l>His writing pen a <hi>Trowel,</hi> and his reading</l>
+            <l>Was joyning <hi>Brickbatts</hi> cloſe, and morter ſpreading.</l>
+            <l>Thus was he made a <hi>Bricklayer</hi> 'gainſt his will,</l>
+            <l>And was exact in <hi>Geometrick</hi> skill.</l>
+            <l>VVhereby he well knew <hi>Architectures</hi> grounds,</l>
+            <l>In <hi>pedeſtals,</hi> in <hi>Angles, Squares,</hi> or <hi>Roundes,</hi>
+            </l>
+            <l>In <hi>Altitude,</hi> in <hi>Longitude,</hi> in <hi>Latitude,</hi>
+            </l>
+            <l>In <hi>Pulchritude,</hi> in <hi>Amplitude,</hi> and <hi>Magnitude,</hi>
+            </l>
+            <l>Yet though he to that trade was hard confin'd,</l>
+            <l>He had more lofty ſtudy in his mind,</l>
+            <l>
+               <hi>Vrania, Clio,</hi> ſweet <hi>Terpſichore,</hi>
+            </l>
+            <l>
+               <hi>Thalia, Calliope, Melpomene,</hi>
+            </l>
+            <l>
+               <hi>Euterpe,</hi> and <hi>Erate, Polyhymnie,</hi>
+            </l>
+            <l>The thought of theſe o're-top'd the higheſt <hi>Chimney,</hi>
+            </l>
+            <l>That e're was built of <hi>Lime,</hi> or <hi>Bricke,</hi> or <hi>Stone,</hi>
+            </l>
+            <l>Theſe were the Sacred <hi>Nine</hi> he built upon;</l>
+            <pb facs="tcp:183918:10"/>
+            <l> And they embrac'd his love, infus'd his braines,</l>
+            <l>With heavenly raptures and tranſcendent ſtrayns,</l>
+            <l>That by their influences, learned <hi>Ben,</hi>
+            </l>
+            <l>Layd by the <hi>Trowel, Bricks</hi> turn'd Books agen.</l>
+            <l>Since to the glory of great <hi>Britaines</hi> Ile,</l>
+            <l>He thoſe forenamed workes did well compile,</l>
+            <l>In mitable, pithy, ſo profound,</l>
+            <l>That through all <hi>Chriſtendome</hi> he is renown'd.</l>
+            <l>I may compare him to a candle right,</l>
+            <l>That waſtes himſelfe in giving others light,</l>
+            <l>The world blame not to dote, the cauſe of it</l>
+            <l>Is, when ſhe loſt him, then ſhe loſt her wit.</l>
+            <l>But though his corps within his grave be pent,</l>
+            <l>His workes are his immortall <hi>Monument,</hi>
+            </l>
+            <l>They ſhall out weare Tombes made of <hi>Braſſe</hi> or <hi>Marble</hi>
+            </l>
+            <l>Till time ſhall end, his <hi>Muſe</hi> ſhall ſweetly warble.</l>
+            <l>Alive, he was <hi>Arts</hi> Maſter in diſcourſe,</l>
+            <l>And Dead, his <hi>Writings</hi> are as much in force.</l>
+            <l>Ther's ſome will prate, and talk more than they know,</l>
+            <l>That the producements of his braine was ſlow.</l>
+            <l>Such men of we<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ghty writings doe miſdeeme,</l>
+            <l>Tis onely number, highly they eſteeme,</l>
+            <pb facs="tcp:183918:11"/>
+            <l> But let thoſe know his lines were ſo compacted,</l>
+            <l>Of much maturity of <hi>Wit</hi> extracted,</l>
+            <l>So full of lofty and deepe ſounding ſence,</l>
+            <l>(Th'extraction of <hi>Apolloes</hi> quinteſſence)</l>
+            <l>So grave, ſo learned, ſo acute, ſo pure,</l>
+            <l>That though they tearm'd him ſlow, he ſtill was ſure.</l>
+            <l>He ſerv'd two Kings, with good integrity,</l>
+            <l>From whoſe free grace and liberality,</l>
+            <l>He had a Royall penſion, and true pay,</l>
+            <l>Which ſtill he ſpent before the quarter day.</l>
+            <l>For he was no eloſe fiſted uſurer,</l>
+            <l>No <hi>Mammons man,</hi> no baſe extortioner,</l>
+            <l>He lov'd not gold and ſilver, and almoſt,</l>
+            <l>It lov'd him ſo, that ſtill no love was loſt,</l>
+            <l>A Cup of Sack he lov'd, (or <hi>Ariſtippus</hi>)</l>
+            <l>Which was to him as good as <hi>Aganippus,</hi>
+            </l>
+            <l>He had a <hi>Poets kingdome</hi> in his mind,</l>
+            <l>But in that Kingdom he could never find,</l>
+            <l>One after that could yeeld him any crop,</l>
+            <l>(For all his land was on <hi>Parnaſus</hi> Top.)</l>
+            <l>And ſure that mountaine is ſo barren now,</l>
+            <l>That ſcarce a Bunch of Turneps there doth grow,</l>
+            <pb facs="tcp:183918:11"/>
+            <l> 
+               <hi>Mecaenas</hi> dyed, and few heires behinde,</l>
+            <l>And <hi>Poets</hi> (like <hi>Camelions</hi>) live by wind.</l>
+            <l>And noble <hi>Ben,</hi> whilſt thou on earth didſt live,</l>
+            <l>Thou my poore muſe encouragement didſt give,</l>
+            <l>For which in humble duty to expreſſe,</l>
+            <l>The manifeſting of my thankfulneſſe,</l>
+            <l>In love to thee and to thy memory,</l>
+            <l>I conſecrate this poore pen'd Elegie,</l>
+            <l>If ought be well writ here, 'tis not my muſe,</l>
+            <l>But tis thy <hi>Genius,</hi> that did me infuſe,</l>
+            <l>VVhereby blind ignorance may know and ſee,</l>
+            <l>He cannot want a Muſe that writes of thee,</l>
+            <l>Thou liv'dſt here ſixty five yeeres (<gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>)</l>
+            <l>Belov'd, and well approv'd, in good mens praiſe,</l>
+            <l>And at thy death, thy <hi>Faith</hi> ſuch hold did lay,</l>
+            <l>Vpon thy Saviour which ſhall nere decay.</l>
+            <l>Thy life was laudable, thy death was fair,</l>
+            <l>Thy duſt to duſt, with honour did repaire,</l>
+            <l>To <hi>Westminsters Cathedrall,</hi> where it lyes,</l>
+            <l>Till (wakened by the dreadfull Trump) it riſe,</l>
+            <l>And repoſſeſſe thy bleſt immortal ſpirit,</l>
+            <l>VVhere both (united) glory may inherit.</l>
+            <pb facs="tcp:183918:12"/>
+            <l> Till then ſhall thy <hi>Effigies</hi> (carv'd in ſtone)</l>
+            <l>Stand with learn'd <hi>Camden,</hi> and with <hi>Cauſabon,</hi>
+            </l>
+            <l>Where <hi>Chaucer (Englands Homer)</hi> is interr'd,</l>
+            <l>Where <hi>Spencer</hi> (our Arch-Poet) is prefer'd,</l>
+            <l>And where the farre fam'd <hi>Draytons</hi> bones doe reſt,</l>
+            <l>There thy memoriall hath a place poſſeſt.</l>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb facs="tcp:183918:12"/>
+            <head>Poſtſcript.</head>
+            <l>SOme few yeeres ſince I made a fooliſh vow,</l>
+            <l>That whil'ſt <hi>Ben Ionſon</hi> I v'd I would not row.</l>
+            <l>Which Idle oath, I ſlothfully did keepe,</l>
+            <l>But now old <hi>Ben</hi> is in a laſting ſleepe,</l>
+            <l>My vow is quit, and if I live once more,</l>
+            <l>Ile daſh and dabble with my ſcull or Care.</l>
+            <l>For though it be a worke, Ile boldly ſay,</l>
+            <l>That (for the moſt part) 'tis a game or play,</l>
+            <l>And whoſoever playes, is ſure to win</l>
+            <l>More certaine, than <hi>Gleek, Maw, or Inne and Inne.</hi>
+            </l>
+            <l>More gainefull ſweat, than can be won at <hi>Tennice,</hi>
+            </l>
+            <l>Or by a painted Courtezan of <hi>Venice.</hi>
+            </l>
+            <l>'Twill keepe me pot-free, or <hi>I</hi> ſurely think,</l>
+            <l>
+               <hi>I</hi> more ſhall mind my meat, and leſſe my drinke.</l>
+            <l>Thus when the weather's faire, <hi>I</hi> (now and then)</l>
+            <l>Am well diſpos'd to fall to work agen.</l>
+            <closer>
+               <signed>IOHN TAYLOR.</signed>
+            </closer>
+            <pb facs="tcp:183918:13"/>
+            <pb facs="tcp:183918:13"/>
+            <pb facs="tcp:183918:14"/>
+            <pb facs="tcp:183918:14"/>
+         </div>
+      </back>
+   </text>
+</TEI>
